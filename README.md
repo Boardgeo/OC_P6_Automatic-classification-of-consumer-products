@@ -16,6 +16,8 @@ My mission is to:
 
 ## Keywords and competences
 - Natural Language Processing (NLP)
-- Feature extraction and image processing (BoW, Word Embeddings)
+- Text Vectorization - BoW (CountVectorizer and TF-IDF), Word Embeddings (Word2vec, BERT, USE)
+- Textural Feature Extraction and Image Processing - SIFT and ORB
+- Clustering - KMeans
 - Transfer Learning (CNN, VGG16, Xception) 
 - Deep Learning
