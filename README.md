@@ -14,7 +14,7 @@ My mission is to:
 - produce two-dimensional graphs, and confirmed by a similarity calculation between the real categories and the clusters, illustrating the fact that the extracted features allow clustering of products of the same category.
 
 
-## Keywords and competences
+## Tools and competences
 - Natural Language Processing (NLP)
 - Text Vectorization - BoW (CountVectorizer and TF-IDF), Word Embeddings (Word2vec, BERT, USE)
 - Textural Feature Extraction and Image Processing - SIFT and ORB
